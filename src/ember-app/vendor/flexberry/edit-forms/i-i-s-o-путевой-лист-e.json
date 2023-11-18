@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Путевой лист",
+  "name": "IISOПутевойЛистE",
+  "className": "ПутевойЛистE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-путевой-лист",
+      "modelProjection": "ПутевойЛистE"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>O.model.TCHZadanVod</class>
+        <class>O.model.Kontragent</class>
+        <class>O.model.TchDvizhGSM</class>
+        <class>O.model.TchRabVodAvto</class>
+        <class>O.model.RukOtdLog</class>
+        <class>O.model.ZHurnalUcheta</class>
+        <class>O.model.Dolzhnosti</class>
+        <class>O.model.PutevojList</class>
+        <class>O.model.TranspSr</class>
+        <class>O.model.Dogovor</class>
+        <class>O.model.TCHVoditel</class>
+        <class>O.model.Organizaciya</class>
+        <class>O.model.Personal</class>
+        <class>O.model.FlexberryAdvLimit</class>
+        <class>O.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>O.model.NewPlatformFlexberryServicesLock</class>
+        <class>O.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

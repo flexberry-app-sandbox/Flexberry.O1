@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Персонал",
+  "name": "IISOПерсоналE",
+  "className": "ПерсоналE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-персонал",
+      "modelProjection": "ПерсоналE"
+    }
+  ]
+}

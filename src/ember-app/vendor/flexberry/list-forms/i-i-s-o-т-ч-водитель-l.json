@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-т-ч-водитель-e",
+  "editForm": "i-i-s-o-т-ч-водитель-e",
+  "external": false,
+  "caption": "Т ч водитель",
+  "name": "IISOТЧВодительL",
+  "className": "ТЧВодительL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-т-ч-водитель",
+      "modelProjection": "ТЧВодительL"
+    }
+  ]
+}

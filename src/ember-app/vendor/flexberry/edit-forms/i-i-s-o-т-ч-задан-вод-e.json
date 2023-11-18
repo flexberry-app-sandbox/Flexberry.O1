@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Т ч задан вод",
+  "name": "IISOТЧЗаданВодE",
+  "className": "ТЧЗаданВодE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-т-ч-задан-вод",
+      "modelProjection": "ТЧЗаданВодE"
+    }
+  ]
+}

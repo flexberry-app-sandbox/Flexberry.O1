@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Т ч водитель",
+  "name": "IISOТЧВодительE",
+  "className": "ТЧВодительE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-т-ч-водитель",
+      "modelProjection": "ТЧВодительE"
+    }
+  ]
+}

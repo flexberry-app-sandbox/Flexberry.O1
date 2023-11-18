@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Договор",
+  "name": "IISOДоговорE",
+  "className": "ДоговорE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-договор",
+      "modelProjection": "ДоговорE"
+    }
+  ]
+}

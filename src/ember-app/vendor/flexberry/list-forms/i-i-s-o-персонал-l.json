@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-персонал-e",
+  "editForm": "i-i-s-o-персонал-e",
+  "external": false,
+  "caption": "Персонал",
+  "name": "IISOПерсоналL",
+  "className": "ПерсоналL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-персонал",
+      "modelProjection": "ПерсоналL"
+    }
+  ]
+}
